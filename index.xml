@@ -6,14 +6,21 @@
     <description>Recent content on 可達筆記的家</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 04 Sep 2024 20:15:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 21 Sep 2024 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://ElenaLin0011.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Terminal</title>
+      <link>https://ElenaLin0011.github.io/blog/terminal1/</link>
+      <pubDate>Sat, 21 Sep 2024 16:00:00 +0800</pubDate>
+      <guid>https://ElenaLin0011.github.io/blog/terminal1/</guid>
+      <description>reference:&#xA;link1&#xA;link2&#xA;1. pwd pwd ＃找現在位置 找現在位置&#xA;2. cd cd #進入其他資料夾 cd .</description>
+    </item>
     <item>
       <title>iOS APP Note1</title>
       <link>https://ElenaLin0011.github.io/blog/app1/</link>
       <pubDate>Wed, 04 Sep 2024 20:15:00 +0800</pubDate>
       <guid>https://ElenaLin0011.github.io/blog/app1/</guid>
-      <description>learning ios app 以下筆記出自「快速精通ios 16程式設計：從零開始活用 Swift與SwiftUI開發技巧」&#xA;what is Swift? 撰寫ios app的程式語言 what is API?</description>
+      <description>learning ios app 以下筆記出自「快&amp;lt;速精通ios 16程式設計：從零開始活用 Swift與SwiftUI開發技巧」&#xA;what is Swift? 撰寫ios app的程式語言 what is API?</description>
     </item>
     <item>
       <title>可達的第一篇文章</title>
@@ -28,6 +35,13 @@
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       <guid>https://ElenaLin0011.github.io/blog/post-13/</guid>
       <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://ElenaLin0011.github.io/blog/python1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ElenaLin0011.github.io/blog/python1/</guid>
+      <description>this is about python</description>
     </item>
   </channel>
 </rss>

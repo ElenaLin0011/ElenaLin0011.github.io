@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Terminal on 可達筆記的家</title>
+    <link>https://ElenaLin0011.github.io/tags/terminal/</link>
+    <description>Recent content in Terminal on 可達筆記的家</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 21 Sep 2024 16:00:00 +0800</lastBuildDate>
+    <atom:link href="https://ElenaLin0011.github.io/tags/terminal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Terminal</title>
+      <link>https://ElenaLin0011.github.io/blog/terminal1/</link>
+      <pubDate>Sat, 21 Sep 2024 16:00:00 +0800</pubDate>
+      <guid>https://ElenaLin0011.github.io/blog/terminal1/</guid>
+      <description>reference:&#xA;link1&#xA;link2&#xA;1. pwd pwd ＃找現在位置 找現在位置&#xA;2. cd cd #進入其他資料夾 cd .</description>
+    </item>
+  </channel>
+</rss>
