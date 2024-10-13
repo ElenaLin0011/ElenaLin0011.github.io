@@ -2,28 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ElenaLin0011.github.io/blog/</loc>
+    <lastmod>2024-10-12T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://ElenaLin0011.github.io/categories/</loc>
+    <lastmod>2024-10-12T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://ElenaLin0011.github.io/tags/cookie/</loc>
+    <lastmod>2024-10-12T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://ElenaLin0011.github.io/tags/recipe/</loc>
+    <lastmod>2024-10-12T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://ElenaLin0011.github.io/categories/recipe/</loc>
+    <lastmod>2024-10-12T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://ElenaLin0011.github.io/tags/</loc>
+    <lastmod>2024-10-12T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://ElenaLin0011.github.io/</loc>
+    <lastmod>2024-10-12T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://ElenaLin0011.github.io/blog/cook1/</loc>
+    <lastmod>2024-10-12T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://ElenaLin0011.github.io/tags/github/</loc>
+    <lastmod>2024-09-27T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://ElenaLin0011.github.io/categories/github/</loc>
+    <lastmod>2024-09-27T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://ElenaLin0011.github.io/blog/github1/</loc>
+    <lastmod>2024-09-27T00:00:00+08:00</lastmod>
+  </url><url>
     <loc>https://ElenaLin0011.github.io/blog/terminal1/</loc>
     <lastmod>2024-09-21T16:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://ElenaLin0011.github.io/blog/</loc>
-    <lastmod>2024-09-21T16:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://ElenaLin0011.github.io/categories/</loc>
-    <lastmod>2024-09-21T16:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://ElenaLin0011.github.io/tags/new/</loc>
-    <lastmod>2024-09-21T16:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://ElenaLin0011.github.io/tags/</loc>
     <lastmod>2024-09-21T16:00:00+08:00</lastmod>
   </url><url>
     <loc>https://ElenaLin0011.github.io/tags/terminal/</loc>
     <lastmod>2024-09-21T16:00:00+08:00</lastmod>
   </url><url>
     <loc>https://ElenaLin0011.github.io/categories/terminal/</loc>
-    <lastmod>2024-09-21T16:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://ElenaLin0011.github.io/</loc>
     <lastmod>2024-09-21T16:00:00+08:00</lastmod>
   </url><url>
     <loc>https://ElenaLin0011.github.io/tags/app/</loc>
@@ -50,7 +71,7 @@
     <loc>https://ElenaLin0011.github.io/categories/markdown/</loc>
     <lastmod>2024-09-04T20:02:00+08:00</lastmod>
   </url><url>
-    <loc>https://ElenaLin0011.github.io/blog/test/</loc>
+    <loc>https://ElenaLin0011.github.io/blog/markdown/</loc>
     <lastmod>2024-09-04T20:02:00+08:00</lastmod>
   </url><url>
     <loc>https://ElenaLin0011.github.io/about/</loc>
@@ -62,21 +83,8 @@
     <loc>https://ElenaLin0011.github.io/search/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url><url>
-    <loc>https://ElenaLin0011.github.io/tags/game/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://ElenaLin0011.github.io/categories/go-language/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://ElenaLin0011.github.io/blog/post-13/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://ElenaLin0011.github.io/tags/photos/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://ElenaLin0011.github.io/tags/python/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
     <loc>https://ElenaLin0011.github.io/blog/python1/</loc>
+  </url><url>
+    <loc>https://ElenaLin0011.github.io/blog/website/</loc>
   </url>
 </urlset>

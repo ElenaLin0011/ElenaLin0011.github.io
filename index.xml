@@ -6,8 +6,22 @@
     <description>Recent content on 可達筆記的家</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 21 Sep 2024 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 00:00:00 +0800</lastBuildDate>
     <atom:link href="https://ElenaLin0011.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>巧克力杏仁餅乾</title>
+      <link>https://ElenaLin0011.github.io/blog/cook1/</link>
+      <pubDate>Sat, 12 Oct 2024 00:00:00 +0800</pubDate>
+      <guid>https://ElenaLin0011.github.io/blog/cook1/</guid>
+      <description>食譜1 原本食譜&amp;raquo;加加減減之後&#xA;無鹽奶油120g&amp;raquo;100g&#xA;細砂糖80g&amp;raquo;50g&#xA;雞蛋65g&amp;raquo;1顆&#xA;低筋麵粉230g&amp;raquo;250g&#xA;可可粉40g&#xA;杏仁片50g&amp;raquo;無（沒買到）&#xA;step1 奶油室溫軟化，粉類過篩</description>
+    </item>
+    <item>
+      <title>github tips 1</title>
+      <link>https://ElenaLin0011.github.io/blog/github1/</link>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0800</pubDate>
+      <guid>https://ElenaLin0011.github.io/blog/github1/</guid>
+      <description>Cloning a repository https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository&#xA;複製網址&#xA;在終端機上cd後貼上網址&#xA;要注意現在在哪個電腦資料夾</description>
+    </item>
     <item>
       <title>About Terminal</title>
       <link>https://ElenaLin0011.github.io/blog/terminal1/</link>
@@ -24,24 +38,24 @@
     </item>
     <item>
       <title>可達的第一篇文章</title>
-      <link>https://ElenaLin0011.github.io/blog/test/</link>
+      <link>https://ElenaLin0011.github.io/blog/markdown/</link>
       <pubDate>Wed, 04 Sep 2024 20:02:00 +0800</pubDate>
-      <guid>https://ElenaLin0011.github.io/blog/test/</guid>
+      <guid>https://ElenaLin0011.github.io/blog/markdown/</guid>
       <description>Markdown note hello world&#xA;1.內文 我是內文(直接打字)&#xA;2.標題 一級標題 # 一級標題 二級標題 ## 二級標題 六級標題 ###### 六級標題 標題前井字號要半形，且要記得空格 3.</description>
-    </item>
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://ElenaLin0011.github.io/blog/post-13/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      <guid>https://ElenaLin0011.github.io/blog/post-13/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
     </item>
     <item>
       <title></title>
       <link>https://ElenaLin0011.github.io/blog/python1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ElenaLin0011.github.io/blog/python1/</guid>
-      <description>this is about python</description>
+      <description>this is about python&#xA;python ch3 note 輸入與輸出 輸出敘述 %d #整數 %f #浮點數 %s #字串 使用方法：</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://ElenaLin0011.github.io/blog/website/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ElenaLin0011.github.io/blog/website/</guid>
+      <description>想要參考的網頁設計&#xA;website1&#xA;我喜歡他左邊的設計</description>
     </item>
   </channel>
 </rss>

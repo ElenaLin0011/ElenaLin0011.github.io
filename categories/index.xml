@@ -6,8 +6,22 @@
     <description>Recent content in Categories on 可達筆記的家</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 21 Sep 2024 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 00:00:00 +0800</lastBuildDate>
     <atom:link href="https://ElenaLin0011.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recipe</title>
+      <link>https://ElenaLin0011.github.io/categories/recipe/</link>
+      <pubDate>Sat, 12 Oct 2024 00:00:00 +0800</pubDate>
+      <guid>https://ElenaLin0011.github.io/categories/recipe/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Github</title>
+      <link>https://ElenaLin0011.github.io/categories/github/</link>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0800</pubDate>
+      <guid>https://ElenaLin0011.github.io/categories/github/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Terminal</title>
       <link>https://ElenaLin0011.github.io/categories/terminal/</link>
@@ -27,13 +41,6 @@
       <link>https://ElenaLin0011.github.io/categories/markdown/</link>
       <pubDate>Wed, 04 Sep 2024 20:02:00 +0800</pubDate>
       <guid>https://ElenaLin0011.github.io/categories/markdown/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Go Language</title>
-      <link>https://ElenaLin0011.github.io/categories/go-language/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      <guid>https://ElenaLin0011.github.io/categories/go-language/</guid>
       <description></description>
     </item>
   </channel>
