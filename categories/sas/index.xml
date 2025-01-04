@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SAS on 可達筆記的家</title>
+    <link>https://ElenaLin0011.github.io/categories/sas/</link>
+    <description>Recent content in SAS on 可達筆記的家</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 24 Dec 2024 21:00:00 +0800</lastBuildDate>
+    <atom:link href="https://ElenaLin0011.github.io/categories/sas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SAS Note3</title>
+      <link>https://ElenaLin0011.github.io/blog/sas/importexcel/</link>
+      <pubDate>Tue, 24 Dec 2024 21:00:00 +0800</pubDate>
+      <guid>https://ElenaLin0011.github.io/blog/sas/importexcel/</guid>
+      <description>今日SAS學習紀錄-Import EXCEL 今天之前的我是只會用手動匯入EXCEL的原始人，今天的我已經成為會用語法匯入EXCEL的外星人&#xA;Proc import datafile = &amp;#34;D:\test\Afile.xlsx&amp;#34;&#x9;out = AAA DBMS = XLSX&#x9;replace ;&#xD;sheet = &amp;#34;A_sheet&amp;#34;;&#xD;run; 說明：</description>
+    </item>
+    <item>
+      <title>SAS Note2</title>
+      <link>https://ElenaLin0011.github.io/blog/sas/sas_quotationmarks/</link>
+      <pubDate>Mon, 23 Dec 2024 21:00:00 +0800</pubDate>
+      <guid>https://ElenaLin0011.github.io/blog/sas/sas_quotationmarks/</guid>
+      <description>今日SAS學習紀錄-Quotation marks(Single/ Double) 其實以前的我以為這是一樣的&amp;hellip; 以為沒有差別&amp;hellip;&#xA;雖然雙引號 (&amp;quot;&amp;quot;) 和單引號 (&amp;rsquo;&amp;rsquo;) 都可以用來表示字串</description>
+    </item>
+    <item>
+      <title>SAS Note1</title>
+      <link>https://ElenaLin0011.github.io/blog/sas/sas_utf8/</link>
+      <pubDate>Thu, 19 Dec 2024 21:00:00 +0800</pubDate>
+      <guid>https://ElenaLin0011.github.io/blog/sas/sas_utf8/</guid>
+      <description>今日SAS學習紀錄-編碼 1.將AAA複製到新的資料集 BBB，並將其編碼設置為 UTF-8 /*UTF-8*/&#xD;data BBB (encoding=&amp;#34;UTF-8&amp;#34;);&#xD;set AAA;&#xD;run; 2.</description>
+    </item>
+  </channel>
+</rss>
